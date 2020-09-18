@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/NASAAPOD/static/css/main.7c500103.chunk.css",
-    "main.js": "/NASAAPOD/static/js/main.05fc2890.chunk.js",
-    "main.js.map": "/NASAAPOD/static/js/main.05fc2890.chunk.js.map",
-    "runtime-main.js": "/NASAAPOD/static/js/runtime-main.1b716de2.js",
-    "runtime-main.js.map": "/NASAAPOD/static/js/runtime-main.1b716de2.js.map",
-    "static/js/2.33a0b93b.chunk.js": "/NASAAPOD/static/js/2.33a0b93b.chunk.js",
-    "static/js/2.33a0b93b.chunk.js.map": "/NASAAPOD/static/js/2.33a0b93b.chunk.js.map",
-    "index.html": "/NASAAPOD/index.html",
-    "precache-manifest.3b67a794a3a6a9cd0247037af0deac0a.js": "/NASAAPOD/precache-manifest.3b67a794a3a6a9cd0247037af0deac0a.js",
-    "service-worker.js": "/NASAAPOD/service-worker.js",
-    "static/css/main.7c500103.chunk.css.map": "/NASAAPOD/static/css/main.7c500103.chunk.css.map",
-    "static/js/2.33a0b93b.chunk.js.LICENSE.txt": "/NASAAPOD/static/js/2.33a0b93b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/NASAAPOD/static/media/logo.5d5d9eef.svg"
+    "main.css": "/nasaapod/static/css/main.7c500103.chunk.css",
+    "main.js": "/nasaapod/static/js/main.3fa734a2.chunk.js",
+    "main.js.map": "/nasaapod/static/js/main.3fa734a2.chunk.js.map",
+    "runtime-main.js": "/nasaapod/static/js/runtime-main.768b6fa3.js",
+    "runtime-main.js.map": "/nasaapod/static/js/runtime-main.768b6fa3.js.map",
+    "static/js/2.85237532.chunk.js": "/nasaapod/static/js/2.85237532.chunk.js",
+    "static/js/2.85237532.chunk.js.map": "/nasaapod/static/js/2.85237532.chunk.js.map",
+    "index.html": "/nasaapod/index.html",
+    "precache-manifest.cab859b3d8c64c20d61ce0192106c5a7.js": "/nasaapod/precache-manifest.cab859b3d8c64c20d61ce0192106c5a7.js",
+    "service-worker.js": "/nasaapod/service-worker.js",
+    "static/css/main.7c500103.chunk.css.map": "/nasaapod/static/css/main.7c500103.chunk.css.map",
+    "static/js/2.85237532.chunk.js.LICENSE.txt": "/nasaapod/static/js/2.85237532.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nasaapod/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b716de2.js",
-    "static/js/2.33a0b93b.chunk.js",
+    "static/js/runtime-main.768b6fa3.js",
+    "static/js/2.85237532.chunk.js",
     "static/css/main.7c500103.chunk.css",
-    "static/js/main.05fc2890.chunk.js"
+    "static/js/main.3fa734a2.chunk.js"
   ]
 }
