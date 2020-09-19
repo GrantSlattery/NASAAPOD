@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nasaapod/static/css/main.7c500103.chunk.css",
-    "main.js": "/nasaapod/static/js/main.3fa734a2.chunk.js",
-    "main.js.map": "/nasaapod/static/js/main.3fa734a2.chunk.js.map",
+    "main.css": "/nasaapod/static/css/main.f8c918e1.chunk.css",
+    "main.js": "/nasaapod/static/js/main.d100ddd3.chunk.js",
+    "main.js.map": "/nasaapod/static/js/main.d100ddd3.chunk.js.map",
     "runtime-main.js": "/nasaapod/static/js/runtime-main.768b6fa3.js",
     "runtime-main.js.map": "/nasaapod/static/js/runtime-main.768b6fa3.js.map",
     "static/js/2.85237532.chunk.js": "/nasaapod/static/js/2.85237532.chunk.js",
     "static/js/2.85237532.chunk.js.map": "/nasaapod/static/js/2.85237532.chunk.js.map",
     "index.html": "/nasaapod/index.html",
-    "precache-manifest.cab859b3d8c64c20d61ce0192106c5a7.js": "/nasaapod/precache-manifest.cab859b3d8c64c20d61ce0192106c5a7.js",
+    "precache-manifest.672eb6f857020cea8c4a5b4aca7a6c5e.js": "/nasaapod/precache-manifest.672eb6f857020cea8c4a5b4aca7a6c5e.js",
     "service-worker.js": "/nasaapod/service-worker.js",
-    "static/css/main.7c500103.chunk.css.map": "/nasaapod/static/css/main.7c500103.chunk.css.map",
+    "static/css/main.f8c918e1.chunk.css.map": "/nasaapod/static/css/main.f8c918e1.chunk.css.map",
     "static/js/2.85237532.chunk.js.LICENSE.txt": "/nasaapod/static/js/2.85237532.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/nasaapod/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.768b6fa3.js",
     "static/js/2.85237532.chunk.js",
-    "static/css/main.7c500103.chunk.css",
-    "static/js/main.3fa734a2.chunk.js"
+    "static/css/main.f8c918e1.chunk.css",
+    "static/js/main.d100ddd3.chunk.js"
   ]
 }
